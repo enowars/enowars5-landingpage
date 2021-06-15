@@ -63,6 +63,10 @@ img {
   text-align: center;
 }
 
+.logo {
+  width: 30vw;
+}
+
 @media (min-width: 768px) {
   .title {
     font-size: 4em;
