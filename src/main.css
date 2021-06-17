@@ -10,6 +10,7 @@ body {
   font-size: 15px;
   color: white;
   margin: 0;
+  overflow-x: hidden;
   /* text-shadow: 0 0 4px #14b51b; */
 }
 a {
