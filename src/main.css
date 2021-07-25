@@ -19,7 +19,7 @@ a {
 
 @font-face {
   font-family: GlitchCity;
-  src: url(/fonts/GlitchCity.ttf);
+  src: url('fonts/GlitchCity.ttf');
 }
 
 .glitch-font {
